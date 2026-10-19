@@ -1,0 +1,1 @@
+Typeface source and license notices for URW Base35. The parent-directory WOFF files are Latin subsets created for this site on 2026-10-19 using fontTools. No changes to glyph shapes. Full editable font programs are included here.
